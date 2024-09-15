@@ -1,2 +1,2 @@
-# malaria_image_-classification
-Malaria Image classification - Predicting Malaria Infected cell
+Malaria Image Classification Analysis
+Malaria Image Classification: Predicting Malaria-Infected Cells Using Supervised and Unsupervised Machine Learning.
